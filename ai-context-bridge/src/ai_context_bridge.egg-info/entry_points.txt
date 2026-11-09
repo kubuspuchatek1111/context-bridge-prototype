@@ -1,2 +1,0 @@
-[console_scripts]
-bridge = ai_context_bridge.cli:main
